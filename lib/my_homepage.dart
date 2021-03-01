@@ -64,6 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       // backgroundColor: Colors.green,
       body: Container(
+        padding: EdgeInsets.all(21),
         child: Column(
           children: [
             Text(
